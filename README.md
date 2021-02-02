@@ -46,6 +46,7 @@ python main.py
 * [Python 3](https://www.python.org/) - The Programming Language used.
 * [PyGame](https://www.pygame.org/news) - Pygame is a cross-platform set of Python modules designed for writing video games.
 
+> Feel free to star ⭐ this repository if you like what you see 😉.
+
 
 ***
-> Feel free to star ⭐ this repository if you like what you see 😉.
